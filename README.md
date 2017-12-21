@@ -31,20 +31,20 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 **Programming**
 
-* [Keras]()
+* [Keras](https://keras.io/)
 
-* [Tensorflow]()
+* [Tensorflow](https://www.tensorflow.org/)
 
 **Visualizations**
 
-* [TensorFlow Playground]()
+* [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.63097&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 ## Reinforcement Learning 
 
 **Reading**
 
-* [Reinforcement Learning by Sutton & Barto]()
+* [Reinforcement Learning by Sutton & Barto](https://mitpress.mit.edu/books/reinforcement-learning)
 
 ## Other Resources 
 
-* [Distill.pub]() 
+* [Distill.pub](https://distill.pub/) 
