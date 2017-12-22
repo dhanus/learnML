@@ -21,7 +21,13 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 **Classes**
 
-* [Fast.ai](http://www.fast.ai/) is a great online course that focuses on getting the student using deep learning for practical projects as soon as possible. 
+* If you want an intuition for what deep learning is and how it works, [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has a series of YouTube videos that explain this really well! 
+
+    * [Chapter 1 - What is a Neural Network?](https://www.youtube.com/watch?time_continue=7&v=aircAruvnKk)
+    * [Chapter 2 - How Neural Networks Learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+    * [Chapter 3 - Back propagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
+* If you want to build something that uses deep learning, [Fast.ai](http://www.fast.ai/) is an online course that will get you using deep learning for practical projects within just a few lessons. 
 
 **Reading**
 
