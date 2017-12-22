@@ -5,17 +5,17 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 **Classes**
 
-* [Coursera's Machine Learning Class](https://www.coursera.org/learn/machine-learning) is the first introduction to machine learning class that everyone uses. Most self-taught data scientists I know have used this class to study for interviews. 
+* [Coursera's Machine Learning Class](https://www.coursera.org/learn/machine-learning) - This Coursera class, taught by Andrew Ng, seems to have become the canonical introductory machine learning class everyone uses. Most data scientists I know have at some point used this class to study for interviews. 
 
 **Reading**
 
-* [Machine Learning by Chris Bishop]() is a common introductory machine learning textbook. While I know some people who have learned machine learning simply by reading this text, I think that it can be a bit thick if it is your first introduction to machine learning, but is a wonderful reference once you have a better idea of how things fit together.  
+* [Machine Learning by Chris Bishop](http://www.springer.com/gb/book/9780387310732) - Bishop's book is a common introductory machine learning textbook. While I know some people who have learned machine learning simply by reading this text, I think that it can be a bit thick if it is your first introduction to machine learning, but is a wonderful reference once you have a better idea of how things fit together.  
 
-* [Machine Learning by Kevin Murphy]() is another common introductor machine learning textbook. This is also a wonderful reference but is a bit hard to read cover to cover. 
+* [Machine Learning by Kevin Murphy](https://mitpress.mit.edu/books/machine-learning-0) - Murphy's book is another common introductor machine learning textbook. This is also a wonderful reference but is a bit hard to read cover to cover. 
 
 **Programming**
 
-* [SciKitLearn](http://scikit-learn.org/stable/) is a Python library for machine learning that also explains many machine learning techniques quite well in its documentation. 
+* [SciKitLearn](http://scikit-learn.org/stable/) - SciKitLearn is a Python library for machine learning. Most of the tools provided in it are written with the aim of being usable for those with minimal machine learning background. With this goal in mind, the documentation often contains nice resources for describing heuristics or intuiton to better understand the machine learning behind the library. 
 
 ## Deep Learning 
 
@@ -31,15 +31,17 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 **Reading**
 
-* [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/) - This online book explains a lot of hard concepts relatively intuitively. 
 
-* [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Deep Learning Book](http://www.deeplearningbook.org/) - This book (availale online and in print) seems to have become one of the canonical books on deep learning. It starts with background knowledge and continues on through modern deep learning research. I thought that part I did a marvelous job reviewing the probability, linear algebra, and other background knowledge that is most useful to get going in deep learning. The explanations of deep learning were a good review if you've seen them before, and the final section on modern research could get a bit confusing at times.
 
 **Programming**
 
 * [Keras](https://keras.io/)
 
 * [Tensorflow](https://www.tensorflow.org/)
+
+* [PyTorch](http://pytorch.org/)
 
 **Visualizations**
 
