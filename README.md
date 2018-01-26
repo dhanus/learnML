@@ -51,8 +51,12 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 **Reading**
 
-* [Reinforcement Learning by Sutton & Barto](https://mitpress.mit.edu/books/reinforcement-learning)
+* [Reinforcement Learning by Sutton & Barto](https://mitpress.mit.edu/books/reinforcement-learning) - This is the canonical book on reinforcement learning, and it has been for quite some time.  Consequently, this will get you through the basic ideas of reinforcement learning, but to learn about the most modern advances, you'll beed another resource. During my Master's, I learned reinforcement learning by reading this book and implementing each algorithm discussed in Python, and for me, that was a good balance between theory and practice. 
+
+**Tools**
+
+* [OpenAI Gym](https://github.com/openai/gym)- The OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. This did not yet exist when I learned reinforcement learning, but they have some great visualizations that make the process of training an agent feel more fun and rewarding than the basic text-based maze navigator that I learned with did. 
 
 ## Other Resources 
 
-* [Distill.pub](https://distill.pub/) - This is an online publication aimed at producing clear, understandable explanations of machine learning concepts. Currently, it is by no means exhaustive, but if you happen to find an explanation here, there is a good chance that you will understand it better after reading this. 
+* [Distill.pub](https://distill.pub/) - This online publication aims to publish clear, understandable explanations of machine learning concepts. Currently, their compilation is by no means exhaustive, but if you happen to find an explanation here, there is a good chance that you will understand it better after reading this. 
