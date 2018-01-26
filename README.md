@@ -55,4 +55,4 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 ## Other Resources 
 
-* [Distill.pub](https://distill.pub/) 
+* [Distill.pub](https://distill.pub/) - This is an online publication aimed at producing clear, understandable explanations of machine learning concepts. Currently, it is by no means exhaustive, but if you happen to find an explanation here, there is a good chance that you will understand it better after reading this. 
