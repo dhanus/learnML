@@ -39,9 +39,9 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 * [Keras](https://keras.io/) - Keras is a high-level neural networks API, written in Python. You can think of it as a wrapper around TensorFlow (and other lower level tools), Theano, etc. If you want to get something that uses deep learning up and running quickly, Keras is a great library to use. However, if you need to do a lot of customization to your architecture, there is a good chance that you will end up needing to use some of the lower level tools (i.e. TensorFlow) too. 
 
-* [Tensorflow](https://www.tensorflow.org/)- Tensfor Flow is a library for implementing deep learning algorithms produced by Google Brain. It 
+* [TensorFlow](https://www.tensorflow.org/)- TensforFlow is a library for implementing deep learning developed by Google Brain. It takes some practice to get used to thinking about models in the TensorFlow way, but it is very robust and works well in large and distributed systems. 
 
-* [PyTorch](http://pytorch.org/)
+* [PyTorch](http://pytorch.org/) - PyTorch is an alternative to TensorFlow. While there is some debate about which is better, the general consensus is that PyTorch is often easier to use for smaller projects, research projects, and other projected that do not need to be exceptionally robust and/or distributed. 
 
 **Visualizations**
 
