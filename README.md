@@ -45,13 +45,13 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 **Visualizations**
 
-* [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.63097&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) - Even if you totally do not 
+* [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.63097&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) - This is a beautiful interactive visualization that came out of Google Brain and the People and AI Research (P+AIR) Initiave. If you want to get a better intuitive sense of what the parameters in your neural network are doing, this is the perfect place to start.
 
 ## Reinforcement Learning 
 
 **Reading**
 
-* [Reinforcement Learning by Sutton & Barto](https://mitpress.mit.edu/books/reinforcement-learning) - This is the canonical book on reinforcement learning, and it has been for quite some time.  Consequently, this will get you through the basic ideas of reinforcement learning, but to learn about the most modern advances, you'll beed another resource. During my Master's, I learned reinforcement learning by reading this book and implementing each algorithm discussed in Python, and for me, that was a good balance between theory and practice. 
+* [Reinforcement Learning by Sutton & Barto](https://mitpress.mit.edu/books/reinforcement-learning) - This is the canonical book on reinforcement learning, and it has been for quite some time.  Consequently, this will get you through the basic ideas of reinforcement learning, but to learn about the most modern advances, you'll probably need to find another resource. During my Master's, I learned reinforcement learning by reading this book and implementing each algorithm discussed in Python, and for me, that was a good balance between theory and practice. 
 
 **Tools**
 
