@@ -33,7 +33,7 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 * [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/) - This online book explains a lot of hard concepts relatively intuitively. 
 
-* [Deep Learning Book](http://www.deeplearningbook.org/) - This book (availale online and in print) seems to have become one of the canonical books on deep learning. It starts with background knowledge and continues on through modern deep learning research. I thought that part I did a marvelous job reviewing the probability, linear algebra, and other background knowledge that is most useful to get going in deep learning. The explanations of deep learning were a good review if you've seen them before, and the final section on modern research could get a bit confusing at times.
+* [Deep Learning Book](http://www.deeplearningbook.org/) - This book seems to have become one of the canonical books on deep learning. It starts with background knowledge and continues on through modern deep learning research. While some of the final section (on modern research) could get a bit confusing, I thought that section one did a marvelous job reviewing the probability, linear algebra, and other background knowledge that is most useful to get going in deep learning, and I thought section two was a really nice overview of some standard deep learning approaches.
 
 **Programming**
 
