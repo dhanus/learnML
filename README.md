@@ -5,7 +5,9 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 **Classes**
 
-* [Coursera's Machine Learning Class](https://www.coursera.org/learn/machine-learning) - This Coursera class, taught by Andrew Ng, seems to have become the canonical introductory machine learning class everyone uses. Most data scientists I know have at some point used this class to study for interviews. 
+* [Coursera's Machine Learning Class](https://www.coursera.org/learn/machine-learning) - This Coursera class, taught by Andrew Ng, seems to have become the canonical introductory machine learning class everyone uses. Most data scientists I know have at some point used this class to study for interviews.
+
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - This course is developed by Google and provides an overview of machine learning concepts. There are interactive demos, as well as excercises using Tensorflow API that can be done directly in your browser.
 
 **Reading**
 
